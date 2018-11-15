@@ -11,3 +11,11 @@ To stop the task, click the `STOP` action sticked under the notificatoin of the 
 # π
 
 > π ≈ 4 * (1 – 1/3 + 1/5 – 1/7 + …)
+
+
+# CPU
+
+The UI will show the CPU infomation to indicate you work.
+Change the speed meaning to change the sleep time between two calculate, with inverse ratio.
+
+
